@@ -1,0 +1,30 @@
+{
+  "name": "izn.uikit",
+  "version": "0.0.1",
+  "description": "Front-end UI kits",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iznyn/izn.uikit.git"
+  },
+  "keywords": [
+    "frontend",
+    "ui",
+    "ui-kits"
+  ],
+  "author": "M Arif Mahthunisnaini <mahthunis@gmail.com> (http://iznyn.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iznyn/izn.uikit/issues"
+  },
+  "homepage": "https://github.com/iznyn/izn.uikit#readme",
+  "dependencies": {
+    "jquery": ">=1.7.2",
+    "jquery.transit": "^0.9.12",
+    "lodash": "^4.17.4",
+    "remodal": "^1.1.1"
+  }
+}
